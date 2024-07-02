@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+main
+{
+    font-family: Helvetica, Sans-Serif;
+    color: #444444;
+    font-size: 15pt;
+    background-color: #FAFAFA;
+    font-style: bold;
+    font-weight: 1000;
+}
+
